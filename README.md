@@ -1,1 +1,1 @@
-# BricksEscapeGame(GroupProject)
+# BricksEscapeGame
